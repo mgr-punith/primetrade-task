@@ -1,0 +1,51 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+media/
+
+
+
+.env
+.env.*.local
+
+# Test / Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# ── Node / Next.js ───────────────────────────────────
+node_modules/
+.next/
+out/
+
+# Local env overrides
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Editor / OS ──────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
