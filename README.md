@@ -23,7 +23,7 @@ A REST API with JWT authentication, role-based access control, and a Next.js fro
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/primetrade-backend.git
+git clone https://github.com/mgr-punith/primetrade-task.git
 cd primetrade-backend
 ```
 
@@ -110,7 +110,7 @@ docker-compose up --build
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/primetrade-frontend.git
+git clone https://github.com/mgr-punith/primetrade-task.git
 cd primetrade-frontend
 ```
 
