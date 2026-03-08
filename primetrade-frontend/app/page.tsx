@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 import axios from "axios";
 import Cookies from "js-cookie";
 
-const API = "http://127.0.0.1:8000/api/v1";
+const API = "https://primetrade-task-92dh.onrender.com/api/v1";
 
 export default function Home() {
   const router = useRouter();
