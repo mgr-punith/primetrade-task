@@ -24,7 +24,7 @@ app.add_middleware(
     allow_origins=[
     "http://localhost:3000",
     "https://primetrade-task-rho.vercel.app"
-],
+    ],
 
     allow_credentials=True,
     allow_methods=["*"],
