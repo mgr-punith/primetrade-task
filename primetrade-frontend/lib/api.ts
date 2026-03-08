@@ -1,7 +1,7 @@
 import axios from "axios";
 import Cookies from "js-cookie";
 
-const BASE = "http://127.0.0.1:8000/api/v1";
+const BASE = "https://primetrade-task-92dh.onrender.com/api/v1";
 
 const api = axios.create({ baseURL: BASE });
 
